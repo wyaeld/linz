@@ -1,0 +1,3 @@
+[submodule "linz_core/touch"]
+	path = linz_core/touch
+	url = http://github.com/wyaeld/sencha_libs.git
