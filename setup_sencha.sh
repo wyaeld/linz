@@ -1,0 +1,1 @@
+git submodule add http://github.com/wyaeld/sencha_libs.git linz_core/touch
